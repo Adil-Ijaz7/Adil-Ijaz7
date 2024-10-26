@@ -3,6 +3,6 @@
 💻 Front-End Developer sharing about my journey and learnings in tech<br>
 👨‍🎓 Studying Computer Science at the Sukkur IBA University, Pakistan<br>
 📖 #learninginpublic in my digital garden<br>
-💭 Currently learning about Machine Learning and dataviz!</br>
+💭 Currently learning about Machine Learning and Cyber Security </br>
 
 [![Adil Ijaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
