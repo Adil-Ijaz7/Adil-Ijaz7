@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Adil Ijaz!
+# 👋 Hi, I'm Adil Ijaz!
 
 💻 Front-End Developer sharing about my journey and learnings in tech<br>
 👨‍🎓 Studying Computer Science at the Sukkur IBA University, Pakistan<br>
