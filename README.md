@@ -5,4 +5,4 @@
 📖 #learninginpublic in my digital garden<br>
 💭 Currently learning about Machine Learning and dataviz!</br>
 
-[![Adil Ijaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7)]![Adil Ijaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[Adil Ijaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&show_icons=true&theme=dark)
