@@ -41,9 +41,9 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 <br>
 
-<a href="https://github.com/Adil-Ijaz">
+<a href="https://github.com/Adil-Ijaz"><p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Ijaz&theme=buefy&layout=compact" />
+  </p>
 </a>
 </br>
 
