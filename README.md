@@ -42,7 +42,7 @@
 <br>
 
 <a href="https://github.com/Adil-Ijaz"><p align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=buefy&show_icons=true" />
   </p>
 </a>
 </br>
