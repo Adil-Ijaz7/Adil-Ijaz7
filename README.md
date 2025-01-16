@@ -5,8 +5,8 @@
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
+- 🎓 &nbsp; Undergraduate Computer Science at Sukkur Institute of Business Administration.
+- 💼 &nbsp; Front-end web developer and ethical hacker.
 - 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence.
 - ✍️ &nbsp; Watching Anime and trying out the latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
