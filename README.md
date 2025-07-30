@@ -41,20 +41,34 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 <br>
 
-<a href="https://github.com/Adil-Ijaz"><p align="center"> 
+---
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=buefy&show_icons=true" />
-  </p>
-</a>
-</br>
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<p align="center"> 
-&nbsp; <a href="https://www.instagram.com/adil.ijaz7" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/aadilijaz/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:adilijaz227@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adil-Ijaz7&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
+---
 
+<h2>🚀 Featured Projects</h2>
+
+- 🔹 [AnubisGPT](https://github.com/Adil-Ijaz7/AnubisGPT) – Java-based AI chatbot with voice interaction and OpenRouter API.
+- 🔹 [AI Code Assistant](https://github.com/Adil-Ijaz7/ai-code-assistant) – Intelligent code suggestion and bug tracking extension for VS Code & IntelliJ.
+- 🔹 [Aiora DSA Mentor](https://github.com/Adil-Ijaz7/aiora-dsa-mentor) – Java desktop app for DSA learning with AI explanations and progress tracking.
+
+---
+
+<h2>🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.instagram.com/adil.ijaz7" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
+  <a href="https://www.linkedin.com/in/aadilijaz/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+  <a href="mailto:adilijaz227@gmail.com" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
+
+---
