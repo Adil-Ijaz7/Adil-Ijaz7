@@ -3,13 +3,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Undergraduate Computer Science at Sukkur Institute of Business Administration.
+- 🔭 &nbsp; I’m currently diving into Data Science development.
+- 🤔 &nbsp; Exploring new technologies and building innovative software solutions and quick hacks.
+- 🎓 &nbsp; Pursuing a Bachelor's in Computer Science at Sukkur IBA University.
 - 💼 &nbsp; Front-end web developer and ethical hacker.
 - 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence.
-- ✍️ &nbsp; Watching Anime and trying out the latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
+- ✍️ &nbsp; Anime enthusiast and design trend explorer in my free time.
+- ☕ &nbsp; ☕ Fueled by coffee — because great code starts with a great brew.
 
 <h3>🛠 Tech Stack</h3>
 
@@ -41,7 +41,7 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 <br>
 
----
+
 
 <h2>📊 GitHub Stats</h2>
 
@@ -53,7 +53,7 @@
   <img src="https://komarev.com/ghpvc/?username=Adil-Ijaz7&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
----
+
 
 <h2>🚀 Featured Projects</h2>
 
@@ -61,7 +61,6 @@
 - 🔹 [AI Code Assistant](https://github.com/Adil-Ijaz7/ai-code-assistant) – Intelligent code suggestion and bug tracking extension for VS Code & IntelliJ.
 - 🔹 [Aiora DSA Mentor](https://github.com/Adil-Ijaz7/aiora-dsa-mentor) – Java desktop app for DSA learning with AI explanations and progress tracking.
 
----
 
 <h2>🤝 Connect With Me</h2>
 
