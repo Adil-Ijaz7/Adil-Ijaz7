@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently diving into Data Science development.
 - 🤔 &nbsp; Exploring new technologies and building innovative software solutions and quick hacks.
 - 🎓 &nbsp; Pursuing a Bachelor's in Computer Science at Sukkur IBA University.
-- 💼 &nbsp; Front-end web developer and ethical hacker.
+- 💼 &nbsp; Full Stack developer and ethical hacker.
 - 🌱 &nbsp; Enthusiast in Cyber Security and Artificial Intelligence.
 - ✍️ &nbsp; Anime enthusiast and design trend explorer in my free time.
 - ☕ &nbsp; ☕ Fueled by coffee — because great code starts with a great brew.
