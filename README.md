@@ -1,5 +1,8 @@
-<h1> Hey there! I'm Adil Ijaz 👋. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h1>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h1 align="center"> Hey there! I'm Adil Ijaz 👋 </h1>
+
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/371756374-0bf134e2-c0ba-488b-bbd4-9300f2f77871.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQzMTYzMTYsIm5iZiI6MTc2NDMxNjAxNiwicGF0aCI6Ii83NDAzODE5MC8zNzE3NTYzNzQtMGJmMTM0ZTItYzBiYS00ODhiLWJiZDQtOTMwMGYyZjc3ODcxLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTI4VDA3NDY1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTExMDVjZmQxNjExZjdhMTRmYmRiZGMyNmMwOGZiMTZmZWY4Mzg5YTJiN2NkMjcyOTU0ODI2MzM5ZThkNGY0YzgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.u92OL4Af1Dhm4DPF19FJAwQYCG5-pE-OOfs0J1NKFCA" width="100%" alt="Header Animation"/>
+</p>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -14,7 +17,7 @@
 <h3>🛠 Tech Stack</h3>
 
 **🧠 AI & Data Science**
-- 🤖 &nbsp;
+- &nbsp;
   ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch)
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow)
   ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)
@@ -62,8 +65,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 <br>
 
-
-
 <h2>📊 GitHub Stats</h2>
 
 <p align="center">
@@ -74,14 +75,13 @@
   <img src="https://komarev.com/ghpvc/?username=Adil-Ijaz7&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
-
-
 <h2>🚀 Featured Projects</h2>
 
+- 🔹 [Mobius LLM Fine-tuning Engine](https://github.com/Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine) – Custom engine for fine-tuning Large Language Models, optimized for research and experimentation.
+- 🔹 [Aiora GPT](https://github.com/Adil-Ijaz7/Aiora_Gpt) – Advanced GPT-based conversational interface and integration module.
+- 🔹 [Aiora Voice Assistance](https://github.com/Adil-Ijaz7/Aiora_Voice-Assistance) – Voice-controlled assistant system leveraging speech-to-text and text-to-speech technologies.
 - 🔹 [AnubisGPT](https://github.com/Adil-Ijaz7/AnubisGPT) – Java-based AI chatbot with voice interaction and OpenRouter API.
 - 🔹 [AI Code Assistant](https://github.com/Adil-Ijaz7/ai-code-assistant) – Intelligent code suggestion and bug tracking extension for VS Code & IntelliJ.
-- 🔹 [Aiora DSA Mentor](https://github.com/Adil-Ijaz7/aiora-dsa-mentor) – Java desktop app for DSA learning with AI explanations and progress tracking.
-
 
 <h2>🤝 Connect With Me</h2>
 
@@ -90,5 +90,3 @@
   <a href="https://www.linkedin.com/in/aadilijaz/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
   <a href="mailto:adilijaz227@gmail.com" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-
----
