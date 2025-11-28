@@ -63,7 +63,11 @@
 
 <h3>📊 GitHub Stats</h3>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=buefy&show_icons=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=tokyonight&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=buefy&show_icons=true" alt="Adil Ijaz Stats">
+</picture>
+
 <br>
 <img src="https://komarev.com/ghpvc/?username=Adil-Ijaz7&style=flat-square&color=blue" alt="Profile views" />
 
