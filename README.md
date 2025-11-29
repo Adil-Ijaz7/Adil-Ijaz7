@@ -64,6 +64,7 @@
 <h3>📊 GitHub Stats</h3>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Ijaz7&layout=compact&theme=buefy" />
 </p>
 
 <p align="center">
