@@ -65,7 +65,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=tokyonight&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=buefy&show_icons=true" alt="Adil Ijaz Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=buefy&show_icons=true" alt="Adil Ijaz Stats">
 </picture>
 
 <br>
