@@ -61,9 +61,9 @@
 
 <br>
 
-<h3>🔥 GitHub Activity</h3>
+<h3>📊 Developer Metrics</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adil-Ijaz7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://metrics.lecoq.io/Adil-Ijaz7?template=classic&base=header,activity,community,repositories,metadata&config_timezone=Asia/Karachi" width="100%" alt="Adil Ijaz Metrics" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adil-Ijaz7&style=flat-square&color=blue" alt="Profile views" />
