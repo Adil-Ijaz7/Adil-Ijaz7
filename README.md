@@ -63,12 +63,24 @@
 
 <h3>📊 Developer Metrics</h3>
 <p align="center">
-  <img src="https://metrics.lecoq.io/Adil-Ijaz7?template=classic&base=header,activity,community,repositories,metadata&config_timezone=Asia/Karachi" width="100%" alt="Adil Ijaz Metrics" />
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adil-Ijaz7&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://metrics.lecoq.io/Adil-Ijaz7?template=classic&base=header,repositories&config_timezone=Asia/Karachi" width="600" alt="Adil Ijaz Metrics" />
 </p>
 
+<h3>📈 GitHub Status</h3>
+
+<a href="https://github.com/Adil-Ijaz7">
+  <img src="https://img.shields.io/github/followers/Adil-Ijaz7?logo=github&style=for-the-badge&color=00f2ea&labelColor=2c2f33" alt="Followers">
+</a>
+<a href="https://github.com/Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine">
+  <img src="https://img.shields.io/github/stars/Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine?logo=reverbnation&style=for-the-badge&color=ff0055&labelColor=2c2f33" alt="Mobius Stars">
+</a>
+<a href="https://github.com/Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine/network/members">
+  <img src="https://img.shields.io/github/forks/Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine?logo=git&style=for-the-badge&color=39d353&labelColor=2c2f33" alt="Mobius Forks">
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Adil-Ijaz7&style=flat-square&color=blue" alt="Profile views" />
 <br>
 
 <h3>🚀 Featured Projects</h3>
