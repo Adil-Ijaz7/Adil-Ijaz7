@@ -6,13 +6,13 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-🔭 &nbsp; I’m currently focused on **AI Engineering and Research**.<br>
-🤔 &nbsp; Exploring **Large Language Models (LLMs)**, Computer Vision, and building intelligent software solutions.<br>
-🎓 &nbsp; Pursuing a Bachelor's in Computer Science at **Sukkur IBA University**.<br>
-💼 &nbsp; Full Stack developer transitioning into AI Research.<br>
-🌱 &nbsp; Enthusiast in **Generative AI**, NLP, and Cyber Security.<br>
-✍️ &nbsp; Anime enthusiast and design trend explorer in my free time.<br>
-☕ &nbsp; Fueled by coffee — because great models need great brews.
+🔭 Currently focused on **AI Engineering and Research**<br>
+🤔 Exploring **Large Language Models (LLMs)** & Computer Vision<br>
+🎓 Pursuing a Bachelor's in Computer Science at **Sukkur IBA University**<br>
+💼 Full Stack developer transitioning into AI Research<br>
+🌱 Enthusiast in **Generative AI**, NLP, and Cyber Security<br>
+✍️ Anime enthusiast and design trend explorer in my free time<br>
+☕ Fueled by coffee — because great models need great brews
 
 <br>
 
@@ -63,11 +63,9 @@
 
 <h3>📊 GitHub Stats</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=tokyonight&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=buefy&show_icons=true" alt="Adil Ijaz Stats">
-</picture>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=midnight-purple&show_icons=true&hide_border=true" alt="Adil Ijaz Stats" />
+</a>
 <br>
 <img src="https://komarev.com/ghpvc/?username=Adil-Ijaz7&style=flat-square&color=blue" alt="Profile views" />
 
