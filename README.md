@@ -61,12 +61,10 @@
 
 <br>
 
-<h3>📊 GitHub Stats</h3>
+<h3>🔥 GitHub Activity</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=transparent&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Ijaz7&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adil-Ijaz7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adil-Ijaz7&style=flat-square&color=blue" alt="Profile views" />
 </p>
