@@ -62,12 +62,13 @@
 <br>
 
 <h3>📊 GitHub Stats</h3>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=buefy&show_icons=true" />
+</p>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=midnight-purple&show_icons=true&hide_border=true" alt="Adil Ijaz Stats" />
-</a>
-<br>
-<img src="https://komarev.com/ghpvc/?username=Adil-Ijaz7&style=flat-square&color=blue" alt="Profile views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adil-Ijaz7&style=flat-square&color=blue" alt="Profile views" />
+</p>
 
 <br>
 
