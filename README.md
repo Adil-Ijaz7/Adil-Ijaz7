@@ -63,8 +63,8 @@
 
 <h3>📊 GitHub Stats</h3>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Ijaz7&layout=compact&theme=buefy" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=transparent&show_icons=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adil-Ijaz7&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -96,6 +96,6 @@ Intelligent code suggestion and bug tracking extension for VS Code & IntelliJ.
 
 <a href="https://www.instagram.com/adil.ijaz7" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
 <a href="https://www.linkedin.com/in/aadilijaz/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-<a href="mailto:adilijaz227@gmail.com" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+<a href="mailto:adilijaz227@gmail.com" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
 
 </div>
