@@ -56,15 +56,13 @@
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" height="25">
 <img src="https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio" height="25">
 <img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255" height="25">
-<img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator" height="25">
-<img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop" height="25">
 
 <br>
 
 <h3>📊 GitHub Stats</h3>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=tokyonight&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7 &theme=tokyonight&show_icons=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adil-Ijaz7&theme=buefy&show_icons=true" alt="Adil Ijaz Stats">
 </picture>
 
