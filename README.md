@@ -63,7 +63,7 @@
 
 <h3>📊 Developer Metrics</h3>
 <p align="center">
-  <img src="https://metrics.lecoq.io/Adil-Ijaz7?template=classic&base=header,repositories&config_timezone=Asia/Karachi" width="600" alt="Adil Ijaz Metrics" />
+  <img src="https://metrics.lecoq.io/Adil-Ijaz7?template=classic&base=header,repositories&config_timezone=Asia/Karachi" width="450" alt="Adil Ijaz Metrics" />
 </p>
 
 <h3>📈 GitHub Status</h3>
