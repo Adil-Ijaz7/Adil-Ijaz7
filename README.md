@@ -68,15 +68,14 @@
 
 <h3>📈 GitHub Status</h3>
 
-<a href="https://github.com/Adil-Ijaz7">
-  <img src="https://img.shields.io/github/followers/Adil-Ijaz7?logo=github&style=for-the-badge&color=00f2ea&labelColor=2c2f33" alt="Followers">
-</a>
-<a href="https://github.com/Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine">
-  <img src="https://img.shields.io/github/stars/Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine?logo=reverbnation&style=for-the-badge&color=ff0055&labelColor=2c2f33" alt="Mobius Stars">
-</a>
-<a href="https://github.com/Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine/network/members">
-  <img src="https://img.shields.io/github/forks/Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine?logo=git&style=for-the-badge&color=39d353&labelColor=2c2f33" alt="Mobius Forks">
-</a>
+<p align="cener">
+  <a href="https://github.com/Adil-Ijaz7">
+    <img src="https://img.shields.io/github/followers/Adil-Ijaz7?logo=github&style=for-the-badge&color=00f2ea&labelColor=2c2f33&label=Followers" alt="Followers">
+  </a>
+  <a href="https://github.com/Adil-Ijaz7">
+    <img src="https://img.shields.io/github/stars/Adil-Ijaz7?style=for-the-badge&logo=github&color=ff0055&labelColor=2c2f33&label=Total%20Stars" alt="Total Stars">
+  </a>
+</p>
 
 <br>
 
