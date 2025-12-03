@@ -94,10 +94,7 @@ Advanced GPT-based conversational interface and integration module.<br><br>
 Voice-controlled assistant system leveraging speech-to-text and text-to-speech technologies.<br><br>
 
 🔹 <strong><a href="https://github.com/Adil-Ijaz7/AnubisGPT">AnubisGPT</a></strong><br>
-Java-based AI chatbot with voice interaction and OpenRouter API.<br><br>
-
-🔹 <strong><a href="https://github.com/Adil-Ijaz7/ai-code-assistant">AI Code Assistant</a></strong><br>
-Intelligent code suggestion and bug tracking extension for VS Code & IntelliJ.
+Java-based AI chatbot with voice interaction and OpenRouter API.<br>
 
 <br>
 
