@@ -16,55 +16,55 @@
 
 <br>
 
-<h3>🛠 Tech Stack</h3>
+## 🛠 Tech Stack
 
-**🧠 AI & Data Science**<br>
+### 🧠 AI / ML & Data Science
 <img src="https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=pytorch" height="25">
 <img src="https://img.shields.io/badge/-TensorFlow-333333?style=flat&logo=tensorflow" height="25">
 <img src="https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras" height="25">
-<img src="https://img.shields.io/badge/-Scikit_Learn-333333?style=flat&logo=scikit-learn" height="25"><br>
+<img src="https://img.shields.io/badge/-Scikit--Learn-333333?style=flat&logo=scikitlearn" height="25"><br>
 <img src="https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas" height="25">
 <img src="https://img.shields.io/badge/-NumPy-333333?style=flat&logo=numpy" height="25">
+<img src="https://img.shields.io/badge/-SciPy-333333?style=flat&logo=scipy" height="25">
+<img src="https://img.shields.io/badge/-OpenCV-333333?style=flat&logo=opencv" height="25"><br>
 <img src="https://img.shields.io/badge/-Matplotlib-333333?style=flat&logo=python" height="25">
 <img src="https://img.shields.io/badge/-HuggingFace-333333?style=flat&logo=huggingface" height="25">
+<img src="https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi" height="25">
 
-**💻 Languages**<br>
+### 💻 Languages
 <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" height="25">
-<img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396" height="25">
-<img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C" height="25">
-
-**🌐 Web Development**<br>
-<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" height="25">
-<img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" height="25">
+<img src="https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=007396" height="25">
+<img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B&logoColor=00599C" height="25">
 <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" height="25">
-<img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C" height="25">
-<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" height="25">
-<img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" height="25">
 
-**🛢 Databases**<br>
+### 🌐 Web / App Development
+<img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" height="25">
+<img src="https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js" height="25">
+<img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" height="25"><br>
+<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5" height="25">
+<img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3&logoColor=1572B6" height="25">
+<img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C" height="25">
+
+### 🛢 Databases & Storage
 <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" height="25">
 <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" height="25">
+<img src="https://img.shields.io/badge/-ChromaDB-333333?style=flat&logo=database" height="25">
 
-**⚙️ Tools & DevOps**<br>
+### ☁️ Cloud & Containerization
+<img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" height="25">
+<img src="https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws" height="25">
+<img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" height="25">
+
+### 🛠 Tools & DevOps
 <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" height="25">
 <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" height="25">
-<img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" height="25">
-<img src="https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter" height="25">
-<img src="https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown" height="25">
 
-**🔧 IDEs & Creative**<br>
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" height="25">
-<img src="https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio" height="25">
-<img src="https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255" height="25">
-<img src="https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator" height="25">
-<img src="https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop" height="25">
+### 💻 IDEs
+<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea" height="25">
+<img src="https://img.shields.io/badge/-PyCharm-333333?style=flat&logo=pycharm" height="25">
+<img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode" height="25">
 
 <br>
-
-<h3>📊 Developer Metrics</h3>
-<p align="center">
-  <img src="https://metrics.lecoq.io/Adil-Ijaz7?template=classic&base=header,repositories&config_timezone=Asia/Karachi" width="450" alt="Adil Ijaz Metrics" />
-</p>
 
 <h3>📈 GitHub Status</h3>
 
