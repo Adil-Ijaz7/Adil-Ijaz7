@@ -85,19 +85,31 @@
 <img src="https://komarev.com/ghpvc/?username=Adil-Ijaz7&style=flat-square&color=blue" alt="Profile views" />
 <br>
 
-<h3>🚀 Featured Projects</h3>
+### 🤖 Featured AI & ML Projects
 
-🔹 <strong><a href="https://github.com/Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine">Mobius LLM Fine-tuning Engine</a></strong><br>
-Custom engine for fine-tuning Large Language Models, optimized for research and experimentation.<br><br>
+🔹 **[Mobius — LLM Fine-tuning Engine](https://github.com/Adil-Ijaz7/Mobius-LLM-Fine-tuning-Engine)**  
+AI engineering toolkit for parameter efficient fine-tuning, evaluating, and deploying LLMs with data pipelines, eval harnesses, and deployment patterns — built for reproducible experimentation → production.
 
-🔹 <strong><a href="https://github.com/Adil-Ijaz7/Aiora_Gpt">Aiora GPT</a></strong><br>
-Advanced GPT-based conversational interface and integration module.<br><br>
+🔹 **[Prism — AEXL Model Orchestration Layer (MOL)](https://github.com/Adil-Ijaz7/Prism-Model_Intellj)**  
+Full LLM evaluation + orchestration layer with judge models (DeepSeek R1, Claude, etc.), custom metrics (correctness, relevance, coherence, faithfulness, safety, conciseness), experiment tracking, and leaderboards over multiple models.  
 
-🔹 <strong><a href="https://github.com/Adil-Ijaz7/Aiora_Voice-Assistance">Aiora Voice Assistance</a></strong><br>
-Voice-controlled assistant system leveraging speech-to-text and text-to-speech technologies.<br><br>
+🔹 **[RepoMind — Codebase Cognitive Modeling System](https://github.com/Adil-Ijaz7/RepoMind)**  
+Transforms repositories into interactive knowledge graphs with AI-powered insights using a Python + FastAPI backend and React frontend — focused on understanding large codebases via LLMs.
 
-🔹 <strong><a href="https://github.com/Adil-Ijaz7/AnubisGPT">AnubisGPT</a></strong><br>
-Java-based AI chatbot with voice interaction and OpenRouter API.<br>
+🔹 **[DevPilot — AI Pair Programmer](https://github.com/Adil-Ijaz7/DevPilot)**  
+Java Swing–based AI coding assistant that uses OpenRouter to provide real-time code analysis, debugging, refactoring, and test generation — like a local Copilot in a desktop app.
+
+🔹 **[AnubisGPT — Java Desktop LLM Chatbot](https://github.com/Adil-Ijaz7/Anubis_GPT)**  
+AI chatbot with modern Swing UI, text-to-speech via FreeTTS, and OpenRouter-backed LLM responses; showcases Java desktop integration, prompt engineering, and LLM-as-backend design.
+
+🔹 **[Voxa — Modern PyQt6 Voice Assistant](https://github.com/Adil-Ijaz7/Voxa_Assistant)**  
+Neon-styled AI voice assistant built with Python + PyQt6, featuring animated waveform visualizations, speech recognition, TTS, and AI-powered responses.
+
+🔹 **[AIORA — AI-Powered Voice Assistant (Web)](https://github.com/Adil-Ijaz7/Aiora_Voice-Assistance)**  
+Web-based voice & chat assistant with OpenRouter integration, real-time chat UI, context-aware conversations, and animated listening/typing feedback.
+
+🔹 **[Book Recommendation App](https://github.com/Adil-Ijaz7/Book_recommendation_app)**  
+Dark-themed Python desktop app (CustomTkinter) that aggregates books from Open Library & Google Books, with a local MySQL-backed favorites system — a nice bridge between data apps and ML-ready recommendation tooling. 
 
 <br>
 
