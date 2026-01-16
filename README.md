@@ -58,7 +58,6 @@
 ### 🛠 Tools & DevOps
 <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" height="25"> 
 <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" height="25"> 
-<img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" height="25">
 <img src="https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter" height="25"> 
 <img src="https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase" height="25">
 
