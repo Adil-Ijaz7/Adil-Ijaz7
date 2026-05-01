@@ -115,7 +115,7 @@ Dark-themed Python desktop app (CustomTkinter) that aggregates books from Open L
 <h3>🤝 Connect With Me</h3>
 
 <a href="https://www.instagram.com/adil.ijaz7" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>
-<a href="https://www.linkedin.com/in/aadilijaz/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+<a href="https://www.linkedin.com/in/adil-ijaz-lakhair/" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 <a href="mailto:adilijaz227@gmail.com" target="_blank"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png" width="50" /></a>
 
 </div>
